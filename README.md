@@ -3,7 +3,7 @@
 Hi there! I'm a Computer Science student specializing in AI and Machine Learning at Poornima University. Passionate about new technologies, I focus on exploring efficient and innovative solutions in Machine Learning and Artificial Intelligence.
 - 🔭 I’m currently working on a Chat App Project.
 - 🌱 I’m currently learning Machine Learning.
-- 📫 Connect with me: http://www.linkedin.com/in/karan-kumar-maloo-ba999b290
+- 📫 Connect with me: https://www.linkedin.com/in/karan-maloo-a492043a0
 - ⚡ Fun fact: I am a anime nerd 😋.
 
 <!--
